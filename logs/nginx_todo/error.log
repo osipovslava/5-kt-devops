@@ -1,0 +1,10 @@
+2024/02/21 10:22:20 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
+2024/02/21 10:24:23 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
+2024/02/21 10:28:30 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
+2024/02/21 10:33:59 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
+2024/02/21 10:54:25 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
+2024/02/21 15:51:03 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
+2024/02/28 09:51:06 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
+2024/02/28 09:53:02 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
+2024/02/28 09:53:15 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
+2024/02/28 09:56:12 [emerg] 7#7: host not found in upstream "todo" in /etc/nginx/sites-available/todo.conf:29
